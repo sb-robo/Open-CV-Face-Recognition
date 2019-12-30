@@ -22,7 +22,7 @@ This pyhton file detect and recognise face.
 - - Stores the data into dataset(data folder).
 - Phase 2: Train the recognizer
 - - Feed the data and id of each face to the recognizer so it can learn.
-Phase 3: Recognition
+- Phase 3: Recognition
 - - Recognize faces.
 
 ### Prerequisites
