@@ -8,7 +8,7 @@ Real-time face recognition project with Open-CV and Python
 
 #### 1. facedata_collect.py
 This python file collects data and stores it in <b>data</b> folder.
-Capture atleast 20 samples data for better performance.
+Capture atleast 20 sample data for better performance.
 - <b>haarcascade_frontalface_alt.xml</b> used for face detection.
 #### 2. face_detect.py
 This pyhton file detect and recognise face. 
