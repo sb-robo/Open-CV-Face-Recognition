@@ -31,6 +31,6 @@ This pyhton file detect and recognise face.
 - Need atleast one configured camera.
 
 #### Useful Links:
-KNN Algorithm: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#Parameter_selection
-OpenCV: https://opencv.org/
-haarcascade_classifier: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+- KNN Algorithm: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#Parameter_selection
+- OpenCV: https://opencv.org/
+- haarcascade_classifier: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
