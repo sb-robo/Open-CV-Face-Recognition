@@ -26,8 +26,8 @@ This pyhton file detect and recognise face.
 - - Recognize faces.
 
 ### Prerequisites
-- Python 3.6 or higher version must be installed in the System where you are running.
-- OpenCV must be installed.
+- <b>Python 3.6</b> or higher version must be installed in the System where you are running.
+- <b>OpenCV</b> need to installed.
 - Need atleast one configured camera.
 
 #### Useful Links:
