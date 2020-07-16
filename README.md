@@ -2,7 +2,7 @@
 Real-time face recognition project with Open-CV and Python
 
 ### Hi there!
-- This is a real-ltime face recognition system which can detect Face and also it can recpgnise Face. 
+- This is a real-time face recognition system which can detect Face and also it can recognise Face. 
 (Recognise only when the sample data of that face has already in <b>Data</b> folder)
 - There are two Python file.
 
